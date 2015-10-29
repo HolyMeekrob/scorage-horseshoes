@@ -1,0 +1,23 @@
+{
+	"name": "scorage-horseshoes",
+	"version": "1.0.0",
+	"description": "0.0.1",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HolyMeekrob/scorage-horseshoes.git"
+	},
+	"keywords": [
+		"scorage",
+		"horseshoes"
+	],
+	"author": "Andy Steinberg <holy.meekrob@gmail.com> (http://www.epicaricacy.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/HolyMeekrob/scorage-horseshoes/issues"
+	},
+	"homepage": "https://github.com/HolyMeekrob/scorage-horseshoes#readme"
+}
